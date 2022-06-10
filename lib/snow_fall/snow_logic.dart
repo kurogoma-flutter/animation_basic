@@ -2,8 +2,7 @@ import 'dart:math';
 import 'dart:ui';
 
 import 'package:flutter/cupertino.dart';
-
-import '../data/snow_data.dart';
+import 'data/snow_data.dart';
 
 class SnowLogic {
   Random _random = Random();
